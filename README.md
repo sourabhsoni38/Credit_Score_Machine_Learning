@@ -23,7 +23,7 @@ Collect and preprocess credit-related data, ensuring it is clean, complete, and 
 Identify and create relevant features that contribute to the accurate classification of credit scores.
 
 ### Model Selection: 
-Evaluate various ML algorithms to determine the most suitable model for credit score classification, considering factors like accuracy, interpretability, and scalability.
+Evaluate __Random Forest Classification__ ML algorithms to determine the most suitable model for credit score classification, considering factors like accuracy.
 
 ### Model Training: 
 Train the selected ML model on historical credit data, using appropriate techniques such as cross-validation to optimize its performance.
