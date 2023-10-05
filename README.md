@@ -36,5 +36,10 @@ Assess the model's performance using relevant evaluation metrics.
 
 ![download (2)](https://github.com/sourabhsoni38/Credit_Score_Machine_Learning/assets/121083070/f050ea55-9b68-4fa3-aabd-aefde2f9cac9)
 
+### Model Deployment with Streamlit:
+Leverage the power of Streamlit to deploy your trained credit score classification model as an interactive web application. Create an intuitive user interface for users to input data and receive instant credit score predictions, making the model accessible to a broader audience. 
+![model deployment](https://github.com/sourabhsoni38/Credit_Score_Machine_Learning/assets/121083070/a357d02f-0d8c-465f-bc26-5a9190274ed8)
+
+
 
 By successfully accomplishing these objectives, our project aims to empower banks and credit card companies with a robust, data-driven solution for efficient and accurate credit score classification. This will enable them to make informed lending decisions, improve customer experiences, and mitigate financial risks effectively.
