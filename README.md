@@ -7,21 +7,34 @@ Banks and credit card companies rely on accurate credit score assessments to eva
 
 To address this, our project aims to explore, implement, and demonstrate the use of Machine Learning techniques for credit score classification. I work with real-world credit data to build a predictive model that can effectively categorize customers into different credit score categories. 
 
-# The primary objectives of this project include:
+## The primary objectives of this project include:
 
-# Data Preparation: 
+### Data Preparation: 
 Collect and preprocess credit-related data, ensuring it is clean, complete, and suitable for ML analysis.
 
-# Feature Engineering: 
+![newplot (3)](https://github.com/sourabhsoni38/Credit_Score_Machine_Learning/assets/121083070/e55bb72e-6436-407a-8eca-20a698284619)
+
+![newplot (4)](https://github.com/sourabhsoni38/Credit_Score_Machine_Learning/assets/121083070/33265011-db64-441e-b3cf-36a33942a4c9)
+
+![download](https://github.com/sourabhsoni38/Credit_Score_Machine_Learning/assets/121083070/5927b1fa-5672-4e33-96ef-7cd34b37cb08)
+
+
+### Feature Engineering: 
 Identify and create relevant features that contribute to the accurate classification of credit scores.
 
-# Model Selection: 
+### Model Selection: 
 Evaluate various ML algorithms to determine the most suitable model for credit score classification, considering factors like accuracy, interpretability, and scalability.
 
-# Model Training: 
+### Model Training: 
 Train the selected ML model on historical credit data, using appropriate techniques such as cross-validation to optimize its performance.
 
-# Model Evaluation: 
-Assess the model's performance using relevant evaluation metrics, including but not limited to accuracy, precision, recall, and F1-score.
+![download (1)](https://github.com/sourabhsoni38/Credit_Score_Machine_Learning/assets/121083070/c430a9da-5185-435d-86b3-a4d24ca0ea4a)
 
-By successfully accomplishing these objectives, our project aims to empower banks and credit card companies with a robust, data-driven solution for efficient and accurate credit score classification. This will enable them to make informed lending decisions, improve customer experiences, and mitigate financial risks effectively.![download](https://github.com/sourabhsoni38/Credit_Score_Machine_Learning/assets/121083070/efd01e24-9baf-4162-9036-501163276823)
+
+### Model Evaluation: 
+Assess the model's performance using relevant evaluation metrics.
+
+![download (2)](https://github.com/sourabhsoni38/Credit_Score_Machine_Learning/assets/121083070/f050ea55-9b68-4fa3-aabd-aefde2f9cac9)
+
+
+By successfully accomplishing these objectives, our project aims to empower banks and credit card companies with a robust, data-driven solution for efficient and accurate credit score classification. This will enable them to make informed lending decisions, improve customer experiences, and mitigate financial risks effectively.
