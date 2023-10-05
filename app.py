@@ -24,7 +24,7 @@ def prediction(Annual_Income, Monthly_Inhand_Salary, Num_Bank_Accounts,
        Delay_from_due_date, Num_of_Delayed_Payment, Credit_Mix,
        Outstanding_Debt, Credit_History_Age, Monthly_Balance):   
    
-    prediction = classifier.predict( 
+    prediction = model.predict( 
         [[Annual_Income, Monthly_Inhand_Salary, Num_Bank_Accounts,
        Num_Credit_Card, Interest_Rate, Num_of_Loan,
        Delay_from_due_date, Num_of_Delayed_Payment, Credit_Mix,
